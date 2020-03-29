@@ -10,4 +10,5 @@ This is Digidii digidaa :-)
 //  commit
 //  push
 
+Now couple of lines added here
 We are going to practice Git maneuvers straightforwardly.
